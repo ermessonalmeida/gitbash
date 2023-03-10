@@ -1,0 +1,3 @@
+git bash
+inicio 
+1 git init - enter 
